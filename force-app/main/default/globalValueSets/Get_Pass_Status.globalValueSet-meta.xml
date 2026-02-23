@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customValue>
+        <fullName>Draft</fullName>
+        <default>false</default>
+        <label>Draft</label>
+    </customValue>
+    <customValue>
+        <fullName>Pending Approval</fullName>
+        <default>false</default>
+        <label>Pending Approval</label>
+    </customValue>
+    <customValue>
+        <fullName>Approved</fullName>
+        <default>false</default>
+        <label>Approved</label>
+    </customValue>
+    <customValue>
+        <fullName>Rejected</fullName>
+        <default>false</default>
+        <label>Rejected</label>
+    </customValue>
+    <customValue>
+        <fullName>Issued</fullName>
+        <default>false</default>
+        <label>Issued</label>
+    </customValue>
+    <customValue>
+        <fullName>In Transit</fullName>
+        <default>false</default>
+        <label>In Transit</label>
+    </customValue>
+    <customValue>
+        <fullName>Received</fullName>
+        <default>false</default>
+        <label>Received</label>
+    </customValue>
+    <customValue>
+        <fullName>Cancelled</fullName>
+        <default>false</default>
+        <label>Cancelled</label>
+    </customValue>
+    <customValue>
+        <fullName>Closed</fullName>
+        <default>false</default>
+        <label>Closed</label>
+    </customValue>
+    <masterLabel>Get Pass Status</masterLabel>
+    <sorted>false</sorted>
+</GlobalValueSet>
